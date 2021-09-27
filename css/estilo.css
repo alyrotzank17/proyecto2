@@ -1,0 +1,47 @@
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+      header {
+      background: linear-gradient(90deg, rgba(60,153,159,1) 0%, rgba(120,115,151,1) 47%, rgba(231,43,136,1) 100%);
+      font-family: 'Montserrat', sans-serif;
+      color: #CCC;
+      }
+      .col {
+        margin:40px 0!important;
+        font-family: 'Montserrat', sans-serif;
+      }
+      .btn-primary {
+    color: #fff;
+    background-color: #370679 !important ; 
+    border-color: #370679 !important; 
+}
+.imgperfil {
+    width: 150px;
+  
+    height: 60px;
+}
+.mb-4 {
+    width: 300px;
+  
+    height: 110px;
+}
+.form-signin {
+margin: 50px 300px
+}
